@@ -1,0 +1,21 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/softbank-hackathon-2026/Freesia-Frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/softbank-hackathon-2026/Freesia-backend.git
+[submodule "infra/platform-terraform"]
+	path = infra/platform-terraform
+	url = https://github.com/softbank-hackathon-2026/platform-terraform.git
+[submodule "infra/workload-terraform"]
+	path = infra/workload-terraform
+	url = https://github.com/softbank-hackathon-2026/workload-terraform.git
+[submodule "infra/workload-deploy"]
+	path = infra/workload-deploy
+	url = https://github.com/softbank-hackathon-2026/workload-deploy.git
+[submodule "samples/sample-shop"]
+	path = samples/sample-shop
+	url = https://github.com/softbank-hackathon-2026/sample-shop.git
+[submodule "samples/shop-api"]
+	path = samples/shop-api
+	url = https://github.com/softbank-hackathon-2026/shop-api.git
